@@ -1,6 +1,10 @@
 # Assamese2Vec
 Assamese2Vec is an open source project for modelling the Assamese Language. The models released here can be used for a variety of tasks like classification and translation.
 
+<p align="center">
+<img src="https://github.com/hridaydutta123/awesome-assamese/blob/master/img/assam.png" />
+</p>
+
 ## Results
 
 #### Words most similar to the boy (লৰা)

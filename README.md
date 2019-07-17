@@ -9,12 +9,12 @@ Assamese2Vec is an open source project for modelling the Assamese Language. The 
 
 #### Words most similar to the boy (লৰা)
 <p align="center">
-<img src="https://github.com/hridaydutta123/Assamese2Vec/blob/master/img/most_similar_lora.png" width="700" height="150" />
+<img src="https://github.com/hridaydutta123/Assamese2Vec/blob/master/img/most_similar_lora.png" width="600" height="150" />
 </p>
 
 #### Words most similar to the Asomiya (অসমীয়া)
 <p align="center">
-<img src="https://github.com/hridaydutta123/Assamese2Vec/blob/master/img/most_similar_asomiya.png" width="700" height="150" />
+<img src="https://github.com/hridaydutta123/Assamese2Vec/blob/master/img/most_similar_asomiya.png" width="600" height="150" />
 </p>
 
 #### Father (দেউতা) + Girl (ছোৱালী) - Boy (লৰা) = Mother (মা)

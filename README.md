@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/197274109.svg)](https://zenodo.org/badge/latestdoi/197274109)
 # Assamese2Vec
 Assamese2Vec is an open source project for modelling the Assamese Language. The models released here can be used for a variety of tasks like classification and translation.
 
@@ -23,3 +24,9 @@ Assamese2Vec is an open source project for modelling the Assamese Language. The 
 </p>
 
 **Thanks to @soham96 for Bangla2Vec which inspired this work.**
+
+# Citation
+Please cite this repository as:
+```
+Hridoy Sankar Dutta, “hridaydutta123/awesome-twitter-tools v1.0”. Zenodo, 25-Jun-2018.
+```

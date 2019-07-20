@@ -28,5 +28,5 @@ Assamese2Vec is an open source project for modelling the Assamese Language. The 
 # Citation
 Please cite this repository as:
 ```
-Hridoy Sankar Dutta, “hridaydutta123/awesome-twitter-tools v1.0”. Zenodo, 25-Jun-2018.
+Hridoy Sankar Dutta, “hridaydutta123/Assamese2Vec v1.0”. Zenodo, 21-Jul-2019.
 ```
